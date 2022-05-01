@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Black-Modern-Personal-Linked-In-Banner.png](https://i.postimg.cc/8zk2my60/Black-Modern-Personal-Linked-In-Banner.png)](https://postimg.cc/gn5tYH4V)
+
+# Hey there, Coders <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="35px">
+
+### Rajeev, this side, I'm a Software Engg.
+
 
 <!--
 **zyncoder/zyncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
