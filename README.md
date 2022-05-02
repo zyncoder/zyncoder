@@ -2,7 +2,7 @@
 
 # Hey there, Coders <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="35px">
 
-### Rajeev, this side, I'm a Software Engg.
+### Rajeev, this side, I'm a Software Engg and am building **Zyncoder** a community for coders, developers, designers and everybody who share the love for Computer Sciences.
 
 
 <!--
