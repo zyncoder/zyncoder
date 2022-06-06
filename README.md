@@ -1,7 +1,6 @@
 [![Black-Modern-Personal-Linked-In-Banner.png](https://i.postimg.cc/8zk2my60/Black-Modern-Personal-Linked-In-Banner.png)](https://postimg.cc/gn5tYH4V)
 
-# Hey there, Coders <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="15px">
-
+# Hey there, Coders 
 ### Rajeev, this side, I'm a Software Engg and am building **Zyncoder** a community for coders, developers, designers and everybody who share the love for Computer Sciences.
 
 <p>
