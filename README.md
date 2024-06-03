@@ -1,67 +1,76 @@
 [![Black-Modern-Personal-Linked-In-Banner.png](https://i.postimg.cc/8zk2my60/Black-Modern-Personal-Linked-In-Banner.png)](https://postimg.cc/gn5tYH4V)
 
 # Hey there, Coders 
-### Rajeev, this side, I'm a Software Engg and am building **Zyncoder** a community for coders, developers, designers and everybody who share the love for Computer Sciences.
+### Rajeev Roy: A Chronological Journey Through the Digital Realm
 
 Sure, here is a professional and comprehensive README for your GitHub profile:
 
 ---
 
-# Rajeev Roy
 
-👋 Hi there! I'm Rajeev Roy, a Digital Engineer specializing in Data Analytics and Data Engineering. Welcome to my GitHub profile where I share my projects, experiments, and contributions.
+## The Early Years
 
-📍 Bengaluru, India  
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/rajeevroy) | [Email](mailto:rajeev@edgenics.in)
+**2016 - 2018: Tagore Academy**  
+- Survived the trials of ICSE and ISC, armed with a love for science and a newfound appreciation for Economics.
 
-## 👨‍💻 About Me
+## The Formative Years
 
-I hold a Bachelor of Engineering (B.E.) in Computer Science Engineering from Nagarjuna College of Engineering and Technology. I have a strong background in data analytics, data engineering, and visualization, with hands-on experience in tools like Power BI, Microsoft Fabric, Azure Data Factory, and SQL Server. I enjoy solving complex data problems and providing actionable insights to drive business decisions.
+**2018 - 2022: Nagarjuna College of Engineering and Technology**  
+- Embarked on a quest for a B.E. in Computer Science Engineering, learned nothing from the course but a tonne about life.
+- Battled data structures, algorithms, and software development. Emerged victorious, with a few scars to prove it.
 
-## 🏢 Professional Experience
+## The Entrepreneurial Era
 
-### Digital Engineer (Data Analytics-MS) at Sonata Software
+**July 2020 - December 2020: Founder, Xasy**  
+- Launched an esports company, discovering that the real challenge is getting gamers to leave their rooms.
+- Gained entrepreneurial resilience, learning the art of respawning after defeat.
 
-**Project 1: Daltron PNG's Data Platform**
-- Developed comprehensive Power BI reports and dashboards, boosting data visibility by 30%.
-- Implemented field status testing procedures, enhancing decision-making speed by 20%.
-- Optimized data retrieval views in Microsoft Fabric, improving system performance by 25%.
-- Architected Microsoft Fabric Lakehouse architecture, enhancing data integration and storage.
-- Improved data quality by 15% through collaboration with cross-functional teams.
+**December 2020 - Present: Co-Founder, Edgenics**  
+- Took on the roles of Head of Product, Hiring Manager, Project Manager, and Client Liaison. Also, unofficially, Chief Problem Solver.
+- Mastered the art of herding cats, also known as leadership and project management.
 
-**Project 2: Data Platform Implementation for NSW Ports Operations Hold Co Pty Limited**
-- Enhanced data processing efficiency by 40% through the development of data pipelines.
-- Reduced data errors by 20% with robust data validation and cleansing procedures.
-- Streamlined data workflows, cutting processing time by 35%.
-- Delivered tailored data solutions, improving user satisfaction by 25%.
+**December 19, 2021 - Present: Founder, Zyncoder**  
+- Created a community for programmers, designers, and creators, united by their love for innovation and fear of deadlines.
+- Honed community-building skills, realizing that sometimes you just need a support group to brainstorm with.
 
-## 🛠️ Skills
+**April 2023 - Present: Co-Founder, Unial**  
+- Launched a public speaking and business communication academy, helping people find their voice, one "um" at a time.
+- Developed expertise in communication training, because even engineers need to learn to speak human.
 
-- **Product Discovery:** User research, market research, competitive analysis, personas
-- **Product Design:** Wireframing, prototyping, usability testing
-- **Product Execution:** Agile, scrum, user stories, MVPs, experimentation
-- **Product Growth:** Acquisition, activation, retention, referral programs
-- **Product Analytics:** A/B testing, cohort analysis, core metrics, funnels
-- **Technology:** SQL, databases, APIs, system architecture, mobile platforms
-- **Tools:** Figma, Jira, Mixpanel, Google Analytics, MS Excel
-- **Visualization Tools:** Power BI, Microsoft Fabric
-- **Soft Skills:** Public speaking, negotiation, critical thinking, research, strong logical and analytical skills, systematic problem-solving approach
+## The Corporate Chronicles
 
-## 🎓 Certifications
+**January 2023 - Present: Digital Engineer (Data Analytics-MS), Sonata Software**  
 
-- **Microsoft Azure Data Engineering Associate (DP-203)**  
-  Proficient in managing data storage, processing, and transformation using Azure services.
-  
-- **Microsoft Azure Data Engineering Associate (DP-600)**  
-  Expert in implementing enterprise analytics solutions on Microsoft Azure Fabric platform.
+*Project 1: Daltron PNG's Data Platform*  
+- Enhanced data visibility, decision-making speed, performance, and quality. Also, made pretty graphs.
+- Strengthened data analytics and optimization skills, realizing that data is power (and job security).
 
-- **Salesforce Developer Catalyst I**  
-  Skilled in developing custom applications and automating business processes with Salesforce technologies.
+*Project 2: Data Platform for NSW Ports Operations Hold Co Pty Limited*  
+- Improved data processing efficiency, accuracy, and user satisfaction. Made data great again.
+- Mastered data pipeline creation and stakeholder engagement, learning that data is the new oil (but less flammable).
 
-## 🚀 Interests
+## The Skill Acquisition Saga
 
-- **Chess:** I enjoy strategic thinking and the challenge of chess.
-- **Reading:** I am an avid reader, always looking to expand my knowledge.
+- Gained proficiency in Product Discovery, Design, Execution, Growth, and Analytics. Collected many hats along the way.
+- Mastered the languages of SQL, databases, APIs, system architecture, and mobile platforms. Became fluent in geek.
+- Wielded tools like Figma, Jira, Mixpanel, Google Analytics, MS Excel, Power BI, and Microsoft Fabric. Assembled an arsenal of digital wizardry.
+- Developed soft skills in public speaking, negotiation, critical thinking, research, logical and analytical skills, and systematic problem-solving. Became a Swiss Army knife, but nerdier.
+
+## The Certification Crusade
+
+**2021: Salesforce Developer Catalyst I**  
+- Obtained the power of the force... I mean, Salesforce.
+
+**2023: Microsoft Azure Data Engineering Associate (DP-203)**  
+- Certified in making the cloud rain data.
+
+**2024: Microsoft Azure Data Engineering Associate (DP-600)**  
+- Leveled up in the art of cloud-based data engineering.
+
+## The Lifelong Learner's Leisure
+
+- Chess: Engaging in strategic thinking, because sometimes you need to plan 10 steps ahead just to survive a project.
+- Reading: Expanding knowledge, because even wizards need to keep learning new spells.
 
 
 # 💻 Tech Stack:
