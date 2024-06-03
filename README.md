@@ -12,7 +12,7 @@ Sure, here is a professional and comprehensive README for your GitHub profile:
 👋 Hi there! I'm Rajeev Roy, a Digital Engineer specializing in Data Analytics and Data Engineering. Welcome to my GitHub profile where I share my projects, experiments, and contributions.
 
 📍 Bengaluru, India  
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/rajeevroy) | [Email](mailto:rajeevroyuni@gmail.com)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/rajeevroy) | [Email](mailto:rajeev@edgenics.in)
 
 ## 👨‍💻 About Me
 
@@ -62,30 +62,6 @@ I hold a Bachelor of Engineering (B.E.) in Computer Science Engineering from Nag
 
 - **Chess:** I enjoy strategic thinking and the challenge of chess.
 - **Reading:** I am an avid reader, always looking to expand my knowledge.
-
-## 📂 Projects
-
-Here are a few highlighted projects I've worked on:
-
-### [Project Name](link)
-- Brief description of the project and its objectives.
-- Technologies used: List of technologies.
-
-### [Project Name](link)
-- Brief description of the project and its objectives.
-- Technologies used: List of technologies.
-
-## 📫 Get in Touch
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajeevroy) or reach out via [email](mailto:rajeevroyuni@gmail.com). I'm always open to discussing new projects, collaborations, or opportunities.
-
----
-
-Thank you for visiting my GitHub profile! Looking forward to connecting with you.
-
----
-
-Feel free to personalize it further to match your style and preferences.
 
 
 # 💻 Tech Stack:
