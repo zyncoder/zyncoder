@@ -3,25 +3,24 @@
 # Hey there, Coders 
 ### Rajeev, this side, I'm a Software Engg and am building **Zyncoder** a community for coders, developers, designers and everybody who share the love for Computer Sciences.
 
-<p>
+# 💫 About Me:
+Rajeev Roy  <br>Bengaluru  <br>LinkedIn | +91-8873080109 | rajeevroyuni@gmail.com  <br><br>---<br><br>### ACADEMIC CREDENTIALS<br><br>**Nagarjuna College of Engineering and Technology**  <br>Bachelor of Engineering (B.E.) in Computer Science Engineering (CSE)  <br>- GPA: 7.3  <br><br>**Tagore Academy (10+12)**  <br>ICSE and ISC in Science Stream  <br>- 10th Boards: 86.4%  <br>- 12th Boards (PCM+E): 85%  <br><br>---<br><br>### WORK EXPERIENCE<br><br>**Sonata Software**  <br>**Digital Engineer (Data Analytics-MS)**  <br>_Bengaluru_  <br>_Jan 2023 - Present_  <br><br>**Project 1: Daltron PNG's Data Platform**  <br>- Engineered and implemented comprehensive Power BI reports and dashboards, increasing data visibility and actionable insights by 30%.  <br>- Directed field status testing procedures, ensuring accuracy and reliability of the centralized data repository, facilitating 20% faster decision-making processes.  <br>- Optimized data retrieval views within Microsoft Fabric, enhancing system performance by 25%.  <br>- Architected and implemented the Microsoft Fabric Lakehouse architecture, significantly improving data integration and storage capabilities.  <br>- Collaborated with cross-functional teams to identify and address data quality issues, improving data accuracy by 15%.<br><br>**Project 2: Data Platform Implementation for NSW Ports Operations Hold Co Pty Limited**  <br>- Designed and developed data pipelines to integrate and process large datasets, improving data processing efficiency by 40%.  <br>- Implemented data validation and cleansing procedures, reducing data errors by 20%.  <br>- Streamlined data workflows using Azure Data Factory and SQL Server, reducing data processing time by 35%.  <br>- Liaised closely with stakeholders to understand requirements and provide tailored data solutions, enhancing user satisfaction by 25%.<br><br>---<br><br>### SKILLS & INTERESTS<br><br>**Product Discovery:**  <br>- User research, market research, competitive analysis, personas  <br><br>**Product Design:**  <br>- Wireframing, prototyping, usability testing  <br><br>**Product Execution:**  <br>- Agile, scrum, user stories, MVPs, experimentation  <br><br>**Product Growth:**  <br>- Acquisition, activation, retention, referral programs  <br><br>**Product Analytics:**  <br>- A/B testing, cohort analysis, core metrics, funnels  <br><br>**Technology:**  <br>- SQL, databases, APIs, system architecture, mobile platforms  <br><br>**Tools:**  <br>- Figma, Jira, Mixpanel, Google Analytics, MS Excel  <br><br>**Visualization Tools:**  <br>- Power BI, Microsoft Fabric  <br><br>**Soft Skills:**  <br>- Public speaking, negotiation, critical thinking, research, strong logical and analytical skills, systematic problem-solving approach  <br><br>**Interests:**  <br>- Chess, reading  <br><br>---<br><br>### CERTIFICATIONS<br><br>**Microsoft Azure Data Engineering Associate (DP-203)**  <br>- Microsoft, 2023  <br>  Demonstrates proficiency in managing data storage, processing and transforming data, constructing data pipelines, and utilizing various Azure services related to data engineering.<br><br>**Microsoft Azure Data Engineering Associate (DP-600)**  <br>- Microsoft, 2024  <br>  Validates expertise in implementing enterprise analytics solutions on the Microsoft Azure Fabric platform by employing data engineering, visualization, and AI components.<br><br>**Salesforce Developer Catalyst I**  <br>- Trailblazer Connect, 2021  <br>  Equips participants with knowledge and support to develop custom applications, automate business processes, and work with Salesforce technologies.
 
-<a align= "center" href="https://github.com/zyncoder">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=zyncoder&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="" width="350" src="https://media.giphy.com/media/5xaOcLSjCuroxKfZ4yI/giphy.gif"/> </a>
-  
-</p>
 
-<!--
-**zyncoder/zyncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zyncoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zyncoder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyncoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zyncoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=zyncoder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
