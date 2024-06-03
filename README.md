@@ -3,8 +3,6 @@
 # Hey there, Coders 
 ### Rajeev Roy: A Chronological Journey Through the Digital Realm
 
-Sure, here is a professional and comprehensive README for your GitHub profile:
-
 ---
 
 
