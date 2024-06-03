@@ -3,12 +3,89 @@
 # Hey there, Coders 
 ### Rajeev, this side, I'm a Software Engg and am building **Zyncoder** a community for coders, developers, designers and everybody who share the love for Computer Sciences.
 
-# 💫 About Me:
-Rajeev Roy  <br>Bengaluru  <br>LinkedIn | +91-8873080109 | rajeev@edgenics.in  <br><br>---<br><br>
-### ACADEMIC CREDENTIALS<br><br>**Nagarjuna College of Engineering and Technology**  <br>Bachelor of Engineering (B.E.) in Computer Science Engineering (CSE)  <br>- GPA: 7.3  <br><br>**Tagore Academy (10+12)**  <br>ICSE and ISC in Science Stream  <br>- 10th Boards: 86.4%  <br>- 12th Boards (PCM+E): 85%  <br><br>---<br><br>
-### WORK EXPERIENCE<br><br>**Sonata Software**  <br>**Digital Engineer (Data Analytics-MS)**  <br>_Bengaluru_  <br>_Jan 2023 - Present_  <br><br>**Project 1: Daltron PNG's Data Platform**  <br>- Engineered and implemented comprehensive Power BI reports and dashboards, increasing data visibility and actionable insights by 30%.  <br>- Directed field status testing procedures, ensuring accuracy and reliability of the centralized data repository, facilitating 20% faster decision-making processes.  <br>- Optimized data retrieval views within Microsoft Fabric, enhancing system performance by 25%.  <br>- Architected and implemented the Microsoft Fabric Lakehouse architecture, significantly improving data integration and storage capabilities.  <br>- Collaborated with cross-functional teams to identify and address data quality issues, improving data accuracy by 15%.<br><br>**Project 2: Data Platform Implementation for NSW Ports Operations Hold Co Pty Limited**  <br>- Designed and developed data pipelines to integrate and process large datasets, improving data processing efficiency by 40%.  <br>- Implemented data validation and cleansing procedures, reducing data errors by 20%.  <br>- Streamlined data workflows using Azure Data Factory and SQL Server, reducing data processing time by 35%.  <br>- Liaised closely with stakeholders to understand requirements and provide tailored data solutions, enhancing user satisfaction by 25%.<br><br>---<br><br>
-### SKILLS & INTERESTS<br><br>**Product Discovery:**  <br>- User research, market research, competitive analysis, personas  <br><br>**Product Design:**  <br>- Wireframing, prototyping, usability testing  <br><br>**Product Execution:**  <br>- Agile, scrum, user stories, MVPs, experimentation  <br><br>**Product Growth:**  <br>- Acquisition, activation, retention, referral programs  <br><br>**Product Analytics:**  <br>- A/B testing, cohort analysis, core metrics, funnels  <br><br>**Technology:**  <br>- SQL, databases, APIs, system architecture, mobile platforms  <br><br>**Tools:**  <br>- Figma, Jira, Mixpanel, Google Analytics, MS Excel  <br><br>**Visualization Tools:**  <br>- Power BI, Microsoft Fabric  <br><br>**Soft Skills:**  <br>- Public speaking, negotiation, critical thinking, research, strong logical and analytical skills, systematic problem-solving approach  <br><br>**Interests:**  <br>- Chess, reading  <br><br>---<br><br>
-### CERTIFICATIONS<br><br>**Microsoft Azure Data Engineering Associate (DP-203)**  <br>- Microsoft, 2023  <br>  Demonstrates proficiency in managing data storage, processing and transforming data, constructing data pipelines, and utilizing various Azure services related to data engineering.<br><br>**Microsoft Azure Data Engineering Associate (DP-600)**  <br>- Microsoft, 2024  <br>  Validates expertise in implementing enterprise analytics solutions on the Microsoft Azure Fabric platform by employing data engineering, visualization, and AI components.<br><br>**Salesforce Developer Catalyst I**  <br>- Trailblazer Connect, 2021  <br>  Equips participants with knowledge and support to develop custom applications, automate business processes, and work with Salesforce technologies.
+Sure, here is a professional and comprehensive README for your GitHub profile:
+
+---
+
+# Rajeev Roy
+
+👋 Hi there! I'm Rajeev Roy, a Digital Engineer specializing in Data Analytics and Data Engineering. Welcome to my GitHub profile where I share my projects, experiments, and contributions.
+
+📍 Bengaluru, India  
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/rajeevroy) | [Email](mailto:rajeevroyuni@gmail.com)
+
+## 👨‍💻 About Me
+
+I hold a Bachelor of Engineering (B.E.) in Computer Science Engineering from Nagarjuna College of Engineering and Technology. I have a strong background in data analytics, data engineering, and visualization, with hands-on experience in tools like Power BI, Microsoft Fabric, Azure Data Factory, and SQL Server. I enjoy solving complex data problems and providing actionable insights to drive business decisions.
+
+## 🏢 Professional Experience
+
+### Digital Engineer (Data Analytics-MS) at Sonata Software
+
+**Project 1: Daltron PNG's Data Platform**
+- Developed comprehensive Power BI reports and dashboards, boosting data visibility by 30%.
+- Implemented field status testing procedures, enhancing decision-making speed by 20%.
+- Optimized data retrieval views in Microsoft Fabric, improving system performance by 25%.
+- Architected Microsoft Fabric Lakehouse architecture, enhancing data integration and storage.
+- Improved data quality by 15% through collaboration with cross-functional teams.
+
+**Project 2: Data Platform Implementation for NSW Ports Operations Hold Co Pty Limited**
+- Enhanced data processing efficiency by 40% through the development of data pipelines.
+- Reduced data errors by 20% with robust data validation and cleansing procedures.
+- Streamlined data workflows, cutting processing time by 35%.
+- Delivered tailored data solutions, improving user satisfaction by 25%.
+
+## 🛠️ Skills
+
+- **Product Discovery:** User research, market research, competitive analysis, personas
+- **Product Design:** Wireframing, prototyping, usability testing
+- **Product Execution:** Agile, scrum, user stories, MVPs, experimentation
+- **Product Growth:** Acquisition, activation, retention, referral programs
+- **Product Analytics:** A/B testing, cohort analysis, core metrics, funnels
+- **Technology:** SQL, databases, APIs, system architecture, mobile platforms
+- **Tools:** Figma, Jira, Mixpanel, Google Analytics, MS Excel
+- **Visualization Tools:** Power BI, Microsoft Fabric
+- **Soft Skills:** Public speaking, negotiation, critical thinking, research, strong logical and analytical skills, systematic problem-solving approach
+
+## 🎓 Certifications
+
+- **Microsoft Azure Data Engineering Associate (DP-203)**  
+  Proficient in managing data storage, processing, and transformation using Azure services.
+  
+- **Microsoft Azure Data Engineering Associate (DP-600)**  
+  Expert in implementing enterprise analytics solutions on Microsoft Azure Fabric platform.
+
+- **Salesforce Developer Catalyst I**  
+  Skilled in developing custom applications and automating business processes with Salesforce technologies.
+
+## 🚀 Interests
+
+- **Chess:** I enjoy strategic thinking and the challenge of chess.
+- **Reading:** I am an avid reader, always looking to expand my knowledge.
+
+## 📂 Projects
+
+Here are a few highlighted projects I've worked on:
+
+### [Project Name](link)
+- Brief description of the project and its objectives.
+- Technologies used: List of technologies.
+
+### [Project Name](link)
+- Brief description of the project and its objectives.
+- Technologies used: List of technologies.
+
+## 📫 Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajeevroy) or reach out via [email](mailto:rajeevroyuni@gmail.com). I'm always open to discussing new projects, collaborations, or opportunities.
+
+---
+
+Thank you for visiting my GitHub profile! Looking forward to connecting with you.
+
+---
+
+Feel free to personalize it further to match your style and preferences.
 
 
 # 💻 Tech Stack:
